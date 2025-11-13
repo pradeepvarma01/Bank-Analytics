@@ -19,6 +19,9 @@ This project focuses on analyzing bank loan data to gain insights into loan dist
 - **Loan Purpose:** Home loans dominate, followed by business and trade.  
 - **Borrower Profile:** Majority aged between 26–45 years.  
 - **Peak Disbursement:** During 2018–2019; noticeable dip in 2020 (pandemic impact).
+- **Dashboard Preview**
+  
+- [Excel Dashboard](https://github.com/pradeepvarma01/Bank-Analytics/blob/main/excel%20dashboard.jpg?raw=true)
 
 ## 📈 Tools & Techniques
 - **Data Visualization:** Power BI  
