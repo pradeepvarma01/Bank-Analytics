@@ -21,9 +21,11 @@ This project focuses on analyzing bank loan data to gain insights into loan dist
 - **Peak Disbursement:** During 2018–2019; noticeable dip in 2020 (pandemic impact).
   
   ## 🧩Dashboard Preview**
-  
+  # Excel Dashboard
 - ![Excel Dashboard](https://github.com/pradeepvarma01/Bank-Analytics/blob/main/excel%20dashboard.jpg)
+  # Tableau Dashboard
 - ![Tableau Dashboard](https://github.com/pradeepvarma01/Bank-Analytics/blob/main/Tableau%20dashboard.png)
+  # Powerbi Dashboard
 - ![Powerbi Dashboard](https://github.com/pradeepvarma01/Bank-Analytics/blob/main/Powerbi%20dashboard.png)
 
 
