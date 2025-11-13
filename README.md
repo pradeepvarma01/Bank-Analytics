@@ -23,6 +23,7 @@ This project focuses on analyzing bank loan data to gain insights into loan dist
   ## 🧩Dashboard Preview**
   
 - ![Excel Dashboard](https://github.com/pradeepvarma01/Bank-Analytics/blob/main/excel%20dashboard.jpg)
+- ![Tableau Dashboard](https://github.com/pradeepvarma01/Bank-Analytics/blob/main/Tableau%20dashboard.png)
 
 ## 📈 Tools & Techniques
 - **Data Visualization:** Power BI  
